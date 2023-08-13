@@ -1,7 +1,8 @@
 # placement-cell
 A web app where user can create account, manage students, schedule and allocate students to interviews, add scores & update results.
 
-Hosted Link. Click here
+Hosted Link. Click here  
+https://sore-pear-jay-hat.cyclic.app
 # Features:
 Create account
 Add/Remove students
